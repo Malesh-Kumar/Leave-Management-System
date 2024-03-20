@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "2fd0",
+      "name": "Rohan",
+      "email": "rohan@gamil.com",
+      "pass": "rohan"
+    },
+    {
+      "id": "358f",
+      "name": "malesh",
+      "email": "maleshkumar0707@gmail.com",
+      "pass": "1"
+    },
+    {
+      "id": "2dc3",
+      "name": "as",
+      "email": "petchumuthu009@gmail.com",
+      "pass": "90"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1eac",
+      "name": "malesh",
+      "start_date": "2333-02-02",
+      "end_date": "2004-02-08",
+      "reason": "fever"
+    },
+    {
+      "id": "3d7b",
+      "name": "malesh",
+      "start_date": "2023-01-28",
+      "end_date": "2023-01-30",
+      "reason": "fever"
+    }
+  ]
+}
